@@ -1,0 +1,11 @@
+{
+  "name": "Node-rest-shop",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Tutorial",
+  "main": "index.js",
+  "author": "Bryan Summers",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
